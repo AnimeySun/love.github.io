@@ -1,0 +1,9 @@
+{
+  "name": "Для моей любимой принцессы",
+  "short_name": "Моя принцесса",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b0712",
+  "theme_color": "#ff729f",
+  "lang": "ru"
+}
